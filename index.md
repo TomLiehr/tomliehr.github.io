@@ -4,3 +4,5 @@ Homer Simpson ist ein hochintelligenter, schlanker und sportlicher Typ, den jede
 * Donuts
 * Duff-Bier
 * Marge
+Homer sagt:
+> Doh!
