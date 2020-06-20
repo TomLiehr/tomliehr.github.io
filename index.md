@@ -6,3 +6,4 @@ Homer Simpson ist ein hochintelligenter, schlanker und sportlicher Typ, den jede
 * Marge
 Homer sagt:
 > Doh!
+<img src="https://images-na.ssl-images-amazon.com/images/I/71UdAbfMkEL._SY679_.jpg"/>
